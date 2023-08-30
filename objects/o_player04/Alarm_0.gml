@@ -1,0 +1,1 @@
+global.jumpedin04 = 1

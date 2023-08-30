@@ -1,0 +1,1 @@
+draw_healthbar(10,10,20,100,global.stamina02,c_black,c_red,c_green,3,true,true)

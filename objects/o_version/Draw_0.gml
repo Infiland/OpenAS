@@ -1,0 +1,1 @@
+draw_text(22,110,version)

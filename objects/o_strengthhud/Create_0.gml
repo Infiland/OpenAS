@@ -1,0 +1,1 @@
+instance_create_depth(440,20,-1000,o_hand)

@@ -1,0 +1,1 @@
+draw_healthbar(400,10,470,20,global.strength*20,c_black,c_red,c_green,0,true,true)
