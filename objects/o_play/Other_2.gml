@@ -1,5 +1,7 @@
 /// @description Variables
 //Variables
+audio_group_load(Music)
+audio_group_load(Sound)
 window_set_size(960,540)
 if room = r_mainmenu {
 	randomize();
@@ -46,4 +48,6 @@ if room = r_mainmenu {
 	global.scoretotal = 0;
 	
 	global.lemmetellyoustats = "Terrible"
+	
+	audio_play_sound(m_maintheme,0,1);
 }

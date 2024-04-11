@@ -1,5 +1,5 @@
 {
-  "FolderOrderSettings": [
+  "FolderOrderSettings":[
     {"name":"Configurations","order":15,"path":"folders/Configurations.yy",},
     {"name":"Extensions","order":13,"path":"folders/Extensions.yy",},
     {"name":"Fonts","order":8,"path":"folders/Fonts.yy",},
@@ -33,7 +33,7 @@
     {"name":"Tile Sets","order":3,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":9,"path":"folders/Timelines.yy",},
   ],
-  "ResourceOrderSettings": [
+  "ResourceOrderSettings":[
     {"name":"s_quit","order":1,"path":"sprites/s_quit/s_quit.yy",},
     {"name":"s_title","order":2,"path":"sprites/s_title/s_title.yy",},
     {"name":"s_hill","order":3,"path":"sprites/s_hill/s_hill.yy",},
